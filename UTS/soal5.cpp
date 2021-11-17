@@ -3,8 +3,7 @@ using namespace std;
 
 int main(){
     float a,b,hasil;
-    char aritmatika;
-
+    
     cout<<"Masukkan Angka Pertama =";
     cin>>a;
     cout<<"Masukkan Angka Kedua =";
